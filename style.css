@@ -22,6 +22,9 @@ h1{
 h1 span{
     color: orangered;
 }
+h2{
+    font-size: 30px;
+}
 .hw img {
     width: 100%;
 
@@ -38,8 +41,34 @@ h1 span{
     padding: 10px 40px;
     border-radius: 25px;
     border: none;
+    
 }
 
 p{
     color: dimgray;
 }
+
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.hw2{
+    width: 65%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.hw2 img{
+    width: 100%;
+}
+
+.about-recipie{
+    text-align: center;
+}
+
+
+
+
